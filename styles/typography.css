@@ -1,0 +1,20 @@
+/* Typography Style Guide
+  Sizes:
+    - h1: 120px
+    - h2: 100px
+    - h3: 72px
+    - h4: 40
+    - p: 32
+    - small: 24
+
+  Other Styles:
+    - line height: 150% (all text)
+*/
+
+.slidev-layout {
+  font-family: Raleway;
+
+  h1 {
+    @apply text-6xl font-bold m-0 leading-snug;
+  }
+}

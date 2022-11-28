@@ -1,16 +1,29 @@
 ---
+title: Presentation title
+sub-title: Journey to discover the truth
+layout: intro-center
+
 theme: ./
+lineNumbers: true
+exportFilename: TypeScript-for-iPlayer-TV
+# colorSchema: 'dark'
 ---
 
-# Slidev Theme Starter
 
-Presentation slides for developers
 
-<div class="pt-12">
-  <span @click="next" class="px-2 p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
+---
+layout: two-cols
+---
+
+
+# Section title
+
+::right::
+
+1. Topic one
+2. Topic two
+3. Topic three
+4. Topic four
 
 ---
 

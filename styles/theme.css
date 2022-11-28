@@ -1,0 +1,13 @@
+/*
+  Style Guide stytles:
+
+
+*/
+
+.slidev-layout {
+  /* Layout Spacing */
+  @apply p-10 h-full flex flex-col;
+\
+  /* Layout Colors */
+  @apply bg-white dark:bg-waleed-dark;
+}
