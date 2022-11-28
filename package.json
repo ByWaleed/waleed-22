@@ -22,7 +22,8 @@
     "theme-vitesse": "^0.6.0"
   },
   "devDependencies": {
-    "@slidev/cli": "^0.36.11"
+    "@slidev/cli": "^0.36.11",
+    "@types/node": "^18.11.9"
   },
   "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
@@ -30,7 +31,7 @@
     "highlighter": "all",
     "defaults": {
       "fonts": {
-        "sans": "Nunito Sans",
+        "sans": "Raleway",
         "mono": "Fira Code"
       },
       "hightlighter": "prism"
