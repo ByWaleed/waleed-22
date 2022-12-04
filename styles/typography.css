@@ -11,10 +11,18 @@
     - line height: 150% (all text)
 */
 
-.slidev-layout {
+* {
   font-family: Raleway;
+}
 
-  h1 {
-    @apply text-6xl font-bold m-0 leading-snug;
-  }
+h1 {
+  @apply text-7xl font-bold m-0 leading-snug;
+}
+
+p {
+  font-size: 12px;
+}
+
+.slidev-layout.cover {
+  @apply h-full grid;
 }

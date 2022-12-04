@@ -1,15 +1,16 @@
 ---
-title: Presentation title
-sub-title: Journey to discover the truth
-layout: intro-center
-
 theme: ./
 lineNumbers: true
 exportFilename: TypeScript-for-iPlayer-TV
-# colorSchema: 'dark'
+
+title: Presentation title
+sub-title: Journey to discover the truth
+layout: cover
 ---
 
+# Presentation Title
 
+Sub heading for the page.
 
 ---
 layout: two-cols
